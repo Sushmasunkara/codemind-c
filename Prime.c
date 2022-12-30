@@ -9,7 +9,6 @@ int main()
         {
             c++;
         }
-    
     }
     if(c==2)
     {
@@ -19,4 +18,5 @@ int main()
     {
         printf("Not Prime");
     }
+    return 0;
 }
